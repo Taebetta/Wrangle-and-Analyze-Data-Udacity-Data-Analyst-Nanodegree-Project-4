@@ -4,8 +4,8 @@
    </a>
 </p>
 <h3 align="center"><a href='https://www.udacity.com/course/data-analyst-nanodegree--nd002'> Udacity Data Analyst Degree </a></h3>
-<h4 align="center">  Project III: Analyze A/B Test Results </h4>
-<h5 align="center">  December 2022  </h4>
+<h4 align="center">  Project IV: Wrangle and Analyze Data </h4>
+<h5 align="center">  January 2023  </h4>
 
 ## Table of Contents
 - [Introduction](#Introduction)
@@ -16,7 +16,7 @@
 
 ## Introduction <a name="Introduction"></a>
 
-In this project, I analysed the A/B testing result from the e-commerce website. I started the project by cleaning data, setting up hypotheses, calculate probability and conduct the hypothesis testing.
+In this project, I wrangle the data of tweet from the WeRateDogs twitter account along with the image prediction data set. After wrangled data, I come up with the analysis based on both data set. Finally, deliver two reports which are wrangle report which use for communication internally, and act report to report findings to the public.
 
 ## Udacity's Project Instruction <a name="instruction"></a>
 Real-world data rarely comes clean. Using Python and its libraries, you will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. This is called data wrangling. You will document your wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python (and its libraries) and/or SQL.
